@@ -1,0 +1,11 @@
+import turtle
+bob = turtle.Turtle()
+print(bob)
+bob.fd(300)
+bob.lt(90)
+bob.bk(300)
+bob.rt(90)
+bob.bk(300)
+bob.lt(90)
+bob.fd(300)
+turtle.mainloop()
